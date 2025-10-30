@@ -1,0 +1,8 @@
+public/storage/images/*
+public/storage/videos/*
+public/storage/pdfs/*
+!public/storage/images/.gitkeep
+!public/storage/videos/.gitkeep
+!public/storage/pdfs/.gitkeep
+/data/*
+!/data/.gitkeep
